@@ -46,7 +46,7 @@ header{
        background: yellow;
        content: "Mobile Size";
   }
-  
+  /*End Mobile*/ 
 }
 
 /* Tablet:  768px = 160em */
@@ -57,7 +57,7 @@ header{
        background: yellow;
        content: "Tablet Size";
   }
-
+ /*End Tablet*/
 }
 
 /* Desktop: 1280px = 80em */
@@ -67,6 +67,7 @@ header{
   body:before {
        background: yellow;
        content: "Desktop Size";
+      /*End Desktop*/
   }
 
 }
